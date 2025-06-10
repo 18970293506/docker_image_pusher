@@ -7,3 +7,4 @@ xhofe/alist:latest
 hello-world
 ollama/ollama
 jenkins/jenkins
+openjdk:8-jdk-alpine
